@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, XmlParseActivity!</string>
+    <string name="app_name">XmlParse</string>
+    <string name="begin_to_parse">开始解析XML文件</string>
+
+</resources>
